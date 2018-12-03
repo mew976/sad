@@ -19,7 +19,7 @@ export default class addTask extends React.Component<any, any> {
                     />
                 </div>
                 <div>
-                    Hello { this.state.name }!
+                    { this.state.name }
                 </div>
             </div>
         );
